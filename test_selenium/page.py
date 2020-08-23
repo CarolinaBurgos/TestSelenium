@@ -2,8 +2,6 @@ from locators import MainPageLocators, SearchResultsPageLocators
 from element import BasePageElement
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from locators import MainPageLocators
 
 class BasePage(object):
     def __init__(self, driver):
@@ -48,20 +46,28 @@ class MainPage(BasePage):
             self.c_curriculum.append(c_link)
 
     def electives_subjects(self):
-        self.driver.find_element(*MainPageLocators.ELECTIVES).click()
-        WebDriverWait(self.driver, 60).until(EC.element_to_be_clickable(MainPageLocators.TOTAL))
-        total = self.driver.find_element(*MainPageLocators.TOTAL)
-        total.click()
-        total.find_element(*SearchResultsPageLocators.OPTION).click()
-        WebDriverWait(self.driver, 60).until(EC.presence_of_element_located(MainPageLocators.COMPLEMENTARY_SUBJECTS))
+        # We need to clear them before looking in another career
+        self.s_name.clear()
+        self.s_code.clear()
+        self.s_hours.clear()
 
-        for c_data in self.driver.find_elements(*MainPageLocators.COMPLEMENTARY_SUBJECTS):
-            code = c_data.find_element(*SearchResultsPageLocators.SUBJECT_CODE).get_attribute("textContent")
-            name = c_data.find_element(*SearchResultsPageLocators.SUBJECT_NAME).get_attribute("textContent")
-            hours = c_data.find_element(*SearchResultsPageLocators.SUBJECT_HOURS).get_attribute("textContent")
-            self.s_code.append(code)
-            self.s_name.append(name)
-            self.s_hours.append(hours)
+        try:
+            self.driver.find_element(*MainPageLocators.ELECTIVES).click()
+            WebDriverWait(self.driver, 60).until(EC.element_to_be_clickable(MainPageLocators.TOTAL))
+            total = self.driver.find_element(*MainPageLocators.TOTAL)
+            total.click()
+            total.find_element(*SearchResultsPageLocators.OPTION).click()
+            WebDriverWait(self.driver, 120).until(EC.presence_of_element_located(MainPageLocators.COMPLEMENTARY_SUBJECTS))
+
+            for c_data in self.driver.find_elements(*MainPageLocators.COMPLEMENTARY_SUBJECTS):
+                code = c_data.find_element(*SearchResultsPageLocators.SUBJECT_CODE).get_attribute("textContent")
+                name = c_data.find_element(*SearchResultsPageLocators.SUBJECT_NAME).get_attribute("textContent")
+                hours = c_data.find_element(*SearchResultsPageLocators.SUBJECT_HOURS).get_attribute("textContent")
+                self.s_code.append(code.strip())
+                self.s_name.append(name)
+                self.s_hours.append(hours)
+        except:
+            print("ERROR: An error occurred when trying to obtain the information of the complementary subjects.")
 
 class SearchResultsPage(BasePage):
     def is_results_found(self):

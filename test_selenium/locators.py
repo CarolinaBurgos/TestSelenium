@@ -2,12 +2,12 @@ from selenium.webdriver.common.by import By
 
 class MainPageLocators(object):
     #Carrer Catalog
-    FACULTY_HEAD = (By.XPATH, "//div[starts-with(@id,'headingF')]")
+    FACULTY_HEAD = (By.XPATH, "//div[starts-with(@id,'headingF')]/h4")
     FACULTY_CAREERS = (By.XPATH, "//div[starts-with(@id,'collapseF')]")
 
-    #Bonus
+    # Bonus
     TOTAL = (By.XPATH, "//select[@name='tbl_materias_complementarias_length']")
-    ELECTIVES = (By.XPATH, "//p[@id='informacion']/a[.='Elective course']") #sacar Elective course
+    ELECTIVES = (By.XPATH, "//a[@data-target='#myModalComplementaria']")
     COMPLEMENTARY_SUBJECTS = (By.XPATH, "//table[@id='tbl_materias_complementarias']/tbody/tr")
 
 
