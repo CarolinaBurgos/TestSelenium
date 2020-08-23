@@ -24,7 +24,7 @@ class CareersCatalog():
 
         fd.close()
         self.driver.close()
-        print("File '"+ self.file + "' created successfully!")
+        print("File " + self.file + " created successfully!")
 
 if __name__ == "__main__":
     search = CareersCatalog()

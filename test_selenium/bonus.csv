@@ -1,0 +1,588 @@
+career_name_en,elective_code,elective_name,weekly_hours
+Product Design,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Product Design,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Product Design,ARTG2043       ,ART THEORY,3
+Product Design,ARTG2037       ,ARTISTIC DRAWING,3
+Product Design,DEPG2025       ,BASKETBALL,3
+Product Design,DEPG2017       ,CHESS,3
+Product Design,ARTG2034       ,CONTEMPORARY DANCE,3
+Product Design,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Product Design,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Product Design,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Product Design,ARTG2044       ,DRAMA,3
+Product Design,ARTG2035       ,FILM APPRECIATION,3
+Product Design,ARTG2036       ,FOLK DANCE,3
+Product Design,DEPG2016       ,FOOTBALL,3
+Product Design,IDIG2016       ,FRENCH I,3
+Product Design,IDIG2015       ,GERMAN I,3
+Product Design,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Product Design,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Product Design,DEPG2020       ,KAYAK,3
+Product Design,IDIG2014       ,KOREAN I,3
+Product Design,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Product Design,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Product Design,IDIG2013       ,MANDARIN CHINESE I,3
+Product Design,INDG1059       ,MINDFULNESS,3
+Product Design,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Product Design,ARTG2045       ,MUSIC APPRECIATION,3
+Product Design,ARTG2042       ,PAINTING ART,3
+Product Design,ARTG2039       ,PHOTOGRAPHY,3
+Graphic Design,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Graphic Design,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Graphic Design,ARTG2043       ,ART THEORY,3
+Graphic Design,ARTG2037       ,ARTISTIC DRAWING,3
+Graphic Design,DEPG2025       ,BASKETBALL,3
+Graphic Design,DEPG2017       ,CHESS,3
+Graphic Design,ARTG2034       ,CONTEMPORARY DANCE,3
+Graphic Design,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Graphic Design,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Graphic Design,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Graphic Design,ARTG2044       ,DRAMA,3
+Graphic Design,ARTG2035       ,FILM APPRECIATION,3
+Graphic Design,ARTG2036       ,FOLK DANCE,3
+Graphic Design,DEPG2016       ,FOOTBALL,3
+Graphic Design,IDIG2016       ,FRENCH I,3
+Graphic Design,IDIG2015       ,GERMAN I,3
+Graphic Design,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Graphic Design,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Graphic Design,DEPG2020       ,KAYAK,3
+Graphic Design,IDIG2014       ,KOREAN I,3
+Graphic Design,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Graphic Design,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Graphic Design,IDIG2013       ,MANDARIN CHINESE I,3
+Graphic Design,INDG1059       ,MINDFULNESS,3
+Graphic Design,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Graphic Design,ARTG2045       ,MUSIC APPRECIATION,3
+Graphic Design,ARTG2042       ,PAINTING ART,3
+Graphic Design,ARTG2039       ,PHOTOGRAPHY,3
+Media Production,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Media Production,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Media Production,ARTG2043       ,ART THEORY,3
+Media Production,ARTG2037       ,ARTISTIC DRAWING,3
+Media Production,DEPG2025       ,BASKETBALL,3
+Media Production,DEPG2017       ,CHESS,3
+Media Production,ARTG2034       ,CONTEMPORARY DANCE,3
+Media Production,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Media Production,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Media Production,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Media Production,ARTG2044       ,DRAMA,3
+Media Production,ARTG2035       ,FILM APPRECIATION,3
+Media Production,ARTG2036       ,FOLK DANCE,3
+Media Production,DEPG2016       ,FOOTBALL,3
+Media Production,IDIG2016       ,FRENCH I,3
+Media Production,IDIG2015       ,GERMAN I,3
+Media Production,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Media Production,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Media Production,DEPG2020       ,KAYAK,3
+Media Production,IDIG2014       ,KOREAN I,3
+Media Production,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Media Production,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Media Production,IDIG2013       ,MANDARIN CHINESE I,3
+Media Production,INDG1059       ,MINDFULNESS,3
+Media Production,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Media Production,ARTG2045       ,MUSIC APPRECIATION,3
+Media Production,ARTG2042       ,PAINTING ART,3
+Media Production,ARTG2039       ,PHOTOGRAPHY,3
+Biology,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Biology,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Biology,ARTG2043       ,ART THEORY,3
+Biology,ARTG2037       ,ARTISTIC DRAWING,3
+Biology,DEPG2025       ,BASKETBALL,3
+Biology,DEPG2017       ,CHESS,3
+Biology,ARTG2034       ,CONTEMPORARY DANCE,3
+Biology,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Biology,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Biology,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Biology,ARTG2044       ,DRAMA,3
+Biology,ARTG2035       ,FILM APPRECIATION,3
+Biology,ARTG2036       ,FOLK DANCE,3
+Biology,DEPG2016       ,FOOTBALL,3
+Biology,IDIG2016       ,FRENCH I,3
+Biology,IDIG2015       ,GERMAN I,3
+Biology,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Biology,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Biology,DEPG2020       ,KAYAK,3
+Biology,IDIG2014       ,KOREAN I,3
+Biology,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Biology,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Biology,IDIG2013       ,MANDARIN CHINESE I,3
+Biology,INDG1059       ,MINDFULNESS,3
+Biology,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Biology,ARTG2045       ,MUSIC APPRECIATION,3
+Biology,ARTG2042       ,PAINTING ART,3
+Biology,ARTG2039       ,PHOTOGRAPHY,3
+Biology,DEPG2022       ,PING PONG,3
+Biology,ECOG1010       ,POLITICAL ECONOMY,3
+Biology,CCAG1008       ,"SCIENCE, TECHNOLOGY AND SOCIETY IN AMERICA",3
+Biology,CCAG1005       ,SOCIAL AND EMOTIONAL LEARNING,3
+Biology,CCAG1006       ,SOCIAL DEVELOPMENT AND NEW TECHNOLOGIES,3
+Biology,CCAG1007       ,SOCIAL DEVELOPMENT AND VOLUNTEERING,3
+Biology,DEPG2019       ,STRENGHT TRAINING,3
+Biology,DEPG2021       ,SWIMMING,3
+Biology,DEPG2023       ,TENNIS,3
+Biology,DEPG2024       ,VOLLEYBALL,3
+Biology,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Nutrition and Dietetics,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Nutrition and Dietetics,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Nutrition and Dietetics,ARTG2043       ,ART THEORY,3
+Nutrition and Dietetics,ARTG2037       ,ARTISTIC DRAWING,3
+Nutrition and Dietetics,DEPG2025       ,BASKETBALL,3
+Nutrition and Dietetics,DEPG2017       ,CHESS,3
+Nutrition and Dietetics,ARTG2034       ,CONTEMPORARY DANCE,3
+Nutrition and Dietetics,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Nutrition and Dietetics,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Nutrition and Dietetics,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Nutrition and Dietetics,ARTG2044       ,DRAMA,3
+Nutrition and Dietetics,ARTG2035       ,FILM APPRECIATION,3
+Nutrition and Dietetics,ARTG2036       ,FOLK DANCE,3
+Nutrition and Dietetics,DEPG2016       ,FOOTBALL,3
+Nutrition and Dietetics,IDIG2016       ,FRENCH I,3
+Nutrition and Dietetics,IDIG2015       ,GERMAN I,3
+Nutrition and Dietetics,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Nutrition and Dietetics,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Nutrition and Dietetics,DEPG2020       ,KAYAK,3
+Nutrition and Dietetics,IDIG2014       ,KOREAN I,3
+Nutrition and Dietetics,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Nutrition and Dietetics,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Nutrition and Dietetics,IDIG2013       ,MANDARIN CHINESE I,3
+Nutrition and Dietetics,INDG1059       ,MINDFULNESS,3
+Nutrition and Dietetics,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Nutrition and Dietetics,ARTG2045       ,MUSIC APPRECIATION,3
+Nutrition and Dietetics,ARTG2042       ,PAINTING ART,3
+Nutrition and Dietetics,ARTG2039       ,PHOTOGRAPHY,3
+Nutrition and Dietetics,DEPG2022       ,PING PONG,3
+Nutrition and Dietetics,ECOG1010       ,POLITICAL ECONOMY,3
+Nutrition and Dietetics,CCAG1008       ,"SCIENCE, TECHNOLOGY AND SOCIETY IN AMERICA",3
+Nutrition and Dietetics,CCAG1005       ,SOCIAL AND EMOTIONAL LEARNING,3
+Nutrition and Dietetics,CCAG1006       ,SOCIAL DEVELOPMENT AND NEW TECHNOLOGIES,3
+Nutrition and Dietetics,CCAG1007       ,SOCIAL DEVELOPMENT AND VOLUNTEERING,3
+Nutrition and Dietetics,DEPG2019       ,STRENGHT TRAINING,3
+Nutrition and Dietetics,DEPG2021       ,SWIMMING,3
+Nutrition and Dietetics,DEPG2023       ,TENNIS,3
+Nutrition and Dietetics,DEPG2024       ,VOLLEYBALL,3
+Nutrition and Dietetics,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Ingeniería Agrícola y Biológica,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Ingeniería Agrícola y Biológica,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Ingeniería Agrícola y Biológica,ARTG2043       ,ART THEORY,3
+Ingeniería Agrícola y Biológica,ARTG2037       ,ARTISTIC DRAWING,3
+Ingeniería Agrícola y Biológica,DEPG2025       ,BASKETBALL,3
+Ingeniería Agrícola y Biológica,DEPG2017       ,CHESS,3
+Ingeniería Agrícola y Biológica,ARTG2034       ,CONTEMPORARY DANCE,3
+Ingeniería Agrícola y Biológica,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Ingeniería Agrícola y Biológica,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Ingeniería Agrícola y Biológica,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Ingeniería Agrícola y Biológica,ARTG2044       ,DRAMA,3
+Ingeniería Agrícola y Biológica,ARTG2035       ,FILM APPRECIATION,3
+Ingeniería Agrícola y Biológica,ARTG2036       ,FOLK DANCE,3
+Ingeniería Agrícola y Biológica,DEPG2016       ,FOOTBALL,3
+Ingeniería Agrícola y Biológica,IDIG2016       ,FRENCH I,3
+Ingeniería Agrícola y Biológica,IDIG2015       ,GERMAN I,3
+Ingeniería Agrícola y Biológica,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Ingeniería Agrícola y Biológica,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Ingeniería Agrícola y Biológica,DEPG2020       ,KAYAK,3
+Ingeniería Agrícola y Biológica,IDIG2014       ,KOREAN I,3
+Ingeniería Agrícola y Biológica,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Ingeniería Agrícola y Biológica,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Ingeniería Agrícola y Biológica,IDIG2013       ,MANDARIN CHINESE I,3
+Ingeniería Agrícola y Biológica,INDG1059       ,MINDFULNESS,3
+Ingeniería Agrícola y Biológica,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Ingeniería Agrícola y Biológica,ARTG2045       ,MUSIC APPRECIATION,3
+Ingeniería Agrícola y Biológica,ARTG2042       ,PAINTING ART,3
+Ingeniería Agrícola y Biológica,ARTG2039       ,PHOTOGRAPHY,3
+Ingeniería Agrícola y Biológica,DEPG2022       ,PING PONG,3
+Ingeniería Agrícola y Biológica,ECOG1010       ,POLITICAL ECONOMY,3
+Ingeniería Agrícola y Biológica,CCAG1008       ,"SCIENCE, TECHNOLOGY AND SOCIETY IN AMERICA",3
+Ingeniería Agrícola y Biológica,CCAG1005       ,SOCIAL AND EMOTIONAL LEARNING,3
+Ingeniería Agrícola y Biológica,CCAG1006       ,SOCIAL DEVELOPMENT AND NEW TECHNOLOGIES,3
+Ingeniería Agrícola y Biológica,CCAG1007       ,SOCIAL DEVELOPMENT AND VOLUNTEERING,3
+Ingeniería Agrícola y Biológica,DEPG2019       ,STRENGHT TRAINING,3
+Ingeniería Agrícola y Biológica,DEPG2021       ,SWIMMING,3
+Ingeniería Agrícola y Biológica,DEPG2023       ,TENNIS,3
+Ingeniería Agrícola y Biológica,DEPG2024       ,VOLLEYBALL,3
+Ingeniería Agrícola y Biológica,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Chemical Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Chemical Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Chemical Engineering,ARTG2043       ,ART THEORY,3
+Chemical Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Chemical Engineering,DEPG2025       ,BASKETBALL,3
+Chemical Engineering,DEPG2017       ,CHESS,3
+Chemical Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Chemical Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Chemical Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Chemical Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Statistics Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Statistics Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Statistics Engineering,ARTG2043       ,ART THEORY,3
+Statistics Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Statistics Engineering,DEPG2025       ,BASKETBALL,3
+Statistics Engineering,DEPG2017       ,CHESS,3
+Statistics Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Statistics Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Statistics Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Statistics Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Logistics and Transportation Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Logistics and Transportation Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Logistics and Transportation Engineering,ARTG2043       ,ART THEORY,3
+Logistics and Transportation Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Logistics and Transportation Engineering,DEPG2025       ,BASKETBALL,3
+Logistics and Transportation Engineering,DEPG2017       ,CHESS,3
+Logistics and Transportation Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Logistics and Transportation Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Logistics and Transportation Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Logistics and Transportation Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Degree in Mathematics,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Degree in Mathematics,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Degree in Mathematics,ARTG2043       ,ART THEORY,3
+Degree in Mathematics,ARTG2037       ,ARTISTIC DRAWING,3
+Degree in Mathematics,DEPG2025       ,BASKETBALL,3
+Degree in Mathematics,DEPG2017       ,CHESS,3
+Degree in Mathematics,ARTG2034       ,CONTEMPORARY DANCE,3
+Degree in Mathematics,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Degree in Mathematics,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Degree in Mathematics,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Auditing and Management  Control,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Auditing and Management  Control,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Auditing and Management  Control,ARTG2043       ,ART THEORY,3
+Auditing and Management  Control,ARTG2037       ,ARTISTIC DRAWING,3
+Auditing and Management  Control,DEPG2025       ,BASKETBALL,3
+Auditing and Management  Control,DEPG2017       ,CHESS,3
+Auditing and Management  Control,ARTG2034       ,CONTEMPORARY DANCE,3
+Auditing and Management  Control,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Auditing and Management  Control,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Auditing and Management  Control,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Auditing and Management  Control,ARTG2044       ,DRAMA,3
+Auditing and Management  Control,ARTG2035       ,FILM APPRECIATION,3
+Auditing and Management  Control,ARTG2036       ,FOLK DANCE,3
+Auditing and Management  Control,DEPG2016       ,FOOTBALL,3
+Auditing and Management  Control,IDIG2016       ,FRENCH I,3
+Auditing and Management  Control,IDIG2015       ,GERMAN I,3
+Economics,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Economics,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Economics,ARTG2043       ,ART THEORY,3
+Economics,ARTG2037       ,ARTISTIC DRAWING,3
+Economics,DEPG2025       ,BASKETBALL,3
+Economics,DEPG2017       ,CHESS,3
+Economics,ARTG2034       ,CONTEMPORARY DANCE,3
+Economics,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Economics,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Economics,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Economics,ARTG2044       ,DRAMA,3
+Economics,ARTG2035       ,FILM APPRECIATION,3
+Economics,ARTG2036       ,FOLK DANCE,3
+Economics,DEPG2016       ,FOOTBALL,3
+Economics,IDIG2016       ,FRENCH I,3
+Economics,IDIG2015       ,GERMAN I,3
+Degree in Archaeology,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Degree in Archaeology,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Degree in Archaeology,ARTG2043       ,ART THEORY,3
+Degree in Archaeology,ARTG2037       ,ARTISTIC DRAWING,3
+Degree in Archaeology,DEPG2025       ,BASKETBALL,3
+Degree in Archaeology,DEPG2017       ,CHESS,3
+Degree in Archaeology,ARTG2034       ,CONTEMPORARY DANCE,3
+Degree in Archaeology,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Degree in Archaeology,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Degree in Archaeology,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Degree in Archaeology,ARTG2044       ,DRAMA,3
+Degree in Archaeology,ARTG2035       ,FILM APPRECIATION,3
+Degree in Archaeology,ARTG2036       ,FOLK DANCE,3
+Degree in Archaeology,DEPG2016       ,FOOTBALL,3
+Degree in Archaeology,IDIG2016       ,FRENCH I,3
+Degree in Archaeology,IDIG2015       ,GERMAN I,3
+Business Administration,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Business Administration,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Business Administration,ARTG2043       ,ART THEORY,3
+Business Administration,ARTG2037       ,ARTISTIC DRAWING,3
+Business Administration,DEPG2025       ,BASKETBALL,3
+Business Administration,DEPG2017       ,CHESS,3
+Business Administration,ARTG2034       ,CONTEMPORARY DANCE,3
+Business Administration,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Business Administration,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Business Administration,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Business Administration,ARTG2044       ,DRAMA,3
+Business Administration,ARTG2035       ,FILM APPRECIATION,3
+Business Administration,ARTG2036       ,FOLK DANCE,3
+Business Administration,DEPG2016       ,FOOTBALL,3
+Business Administration,IDIG2016       ,FRENCH I,3
+Business Administration,IDIG2015       ,GERMAN I,3
+Tourism Bachelor,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Tourism Bachelor,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Tourism Bachelor,ARTG2043       ,ART THEORY,3
+Tourism Bachelor,ARTG2037       ,ARTISTIC DRAWING,3
+Tourism Bachelor,DEPG2025       ,BASKETBALL,3
+Tourism Bachelor,DEPG2017       ,CHESS,3
+Tourism Bachelor,ARTG2034       ,CONTEMPORARY DANCE,3
+Tourism Bachelor,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Tourism Bachelor,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Tourism Bachelor,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Tourism Bachelor,ARTG2044       ,DRAMA,3
+Tourism Bachelor,ARTG2035       ,FILM APPRECIATION,3
+Tourism Bachelor,ARTG2036       ,FOLK DANCE,3
+Tourism Bachelor,DEPG2016       ,FOOTBALL,3
+Tourism Bachelor,IDIG2016       ,FRENCH I,3
+Tourism Bachelor,IDIG2015       ,GERMAN I,3
+Mining Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Mining Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Mining Engineering,ARTG2043       ,ART THEORY,3
+Mining Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Mining Engineering,DEPG2025       ,BASKETBALL,3
+Mining Engineering,DEPG2017       ,CHESS,3
+Mining Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Mining Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Mining Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Mining Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Petroleum Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Petroleum Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Petroleum Engineering,ARTG2043       ,ART THEORY,3
+Petroleum Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Petroleum Engineering,DEPG2025       ,BASKETBALL,3
+Petroleum Engineering,DEPG2017       ,CHESS,3
+Petroleum Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Petroleum Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Petroleum Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Petroleum Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Civil Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Civil Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Civil Engineering,ARTG2043       ,ART THEORY,3
+Civil Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Civil Engineering,DEPG2025       ,BASKETBALL,3
+Civil Engineering,DEPG2017       ,CHESS,3
+Civil Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Civil Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Civil Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Civil Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Geological Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Geological Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Geological Engineering,ARTG2043       ,ART THEORY,3
+Geological Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Geological Engineering,DEPG2025       ,BASKETBALL,3
+Geological Engineering,DEPG2017       ,CHESS,3
+Geological Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Geological Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Geological Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Geological Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Computer Science,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Computer Science,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Computer Science,ARTG2043       ,ART THEORY,3
+Computer Science,ARTG2037       ,ARTISTIC DRAWING,3
+Computer Science,DEPG2025       ,BASKETBALL,3
+Electrical Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Electrical Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Electrical Engineering,ARTG2043       ,ART THEORY,3
+Electrical Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Electrical Engineering,DEPG2025       ,BASKETBALL,3
+Electronics and Automation Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Electronics and Automation Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Electronics and Automation Engineering,ARTG2043       ,ART THEORY,3
+Electronics and Automation Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Electronics and Automation Engineering,DEPG2025       ,BASKETBALL,3
+Telecommunications Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Telecommunications Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Telecommunications Engineering,ARTG2043       ,ART THEORY,3
+Telecommunications Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Telecommunications Engineering,DEPG2025       ,BASKETBALL,3
+Telematics Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Telematics Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Telematics Engineering,ARTG2043       ,ART THEORY,3
+Telematics Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Telematics Engineering,DEPG2025       ,BASKETBALL,3
+Industrial Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Industrial Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Industrial Engineering,ARTG2043       ,ART THEORY,3
+Industrial Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Industrial Engineering,DEPG2025       ,BASKETBALL,3
+Industrial Engineering,DEPG2017       ,CHESS,3
+Industrial Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Industrial Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Industrial Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Industrial Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Industrial Engineering,ARTG2044       ,DRAMA,3
+Industrial Engineering,ARTG2035       ,FILM APPRECIATION,3
+Industrial Engineering,ARTG2036       ,FOLK DANCE,3
+Industrial Engineering,DEPG2016       ,FOOTBALL,3
+Industrial Engineering,IDIG2016       ,FRENCH I,3
+Industrial Engineering,IDIG2015       ,GERMAN I,3
+Industrial Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Industrial Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Mechanical Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Mechanical Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Mechanical Engineering,ARTG2043       ,ART THEORY,3
+Mechanical Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Mechanical Engineering,DEPG2025       ,BASKETBALL,3
+Mechanical Engineering,DEPG2017       ,CHESS,3
+Mechanical Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Mechanical Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Mechanical Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Mechanical Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Mechanical Engineering,ARTG2044       ,DRAMA,3
+Mechanical Engineering,ARTG2035       ,FILM APPRECIATION,3
+Mechanical Engineering,ARTG2036       ,FOLK DANCE,3
+Mechanical Engineering,DEPG2016       ,FOOTBALL,3
+Mechanical Engineering,IDIG2016       ,FRENCH I,3
+Mechanical Engineering,IDIG2015       ,GERMAN I,3
+Mechanical Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Mechanical Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Food Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Food Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Food Engineering,ARTG2043       ,ART THEORY,3
+Food Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Food Engineering,DEPG2025       ,BASKETBALL,3
+Food Engineering,DEPG2017       ,CHESS,3
+Food Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Food Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Food Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Food Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Food Engineering,ARTG2044       ,DRAMA,3
+Food Engineering,ARTG2035       ,FILM APPRECIATION,3
+Food Engineering,ARTG2036       ,FOLK DANCE,3
+Food Engineering,DEPG2016       ,FOOTBALL,3
+Food Engineering,IDIG2016       ,FRENCH I,3
+Food Engineering,IDIG2015       ,GERMAN I,3
+Food Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Food Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Materials Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Materials Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Materials Engineering,ARTG2043       ,ART THEORY,3
+Materials Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Materials Engineering,DEPG2025       ,BASKETBALL,3
+Materials Engineering,DEPG2017       ,CHESS,3
+Materials Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Materials Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Materials Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Materials Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Materials Engineering,ARTG2044       ,DRAMA,3
+Materials Engineering,ARTG2035       ,FILM APPRECIATION,3
+Materials Engineering,ARTG2036       ,FOLK DANCE,3
+Materials Engineering,DEPG2016       ,FOOTBALL,3
+Materials Engineering,IDIG2016       ,FRENCH I,3
+Materials Engineering,IDIG2015       ,GERMAN I,3
+Materials Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Materials Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Mechatronic Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Mechatronic Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Mechatronic Engineering,ARTG2043       ,ART THEORY,3
+Mechatronic Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Mechatronic Engineering,DEPG2025       ,BASKETBALL,3
+Mechatronic Engineering,DEPG2017       ,CHESS,3
+Mechatronic Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Mechatronic Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Mechatronic Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Mechatronic Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Mechatronic Engineering,ARTG2044       ,DRAMA,3
+Mechatronic Engineering,ARTG2035       ,FILM APPRECIATION,3
+Mechatronic Engineering,ARTG2036       ,FOLK DANCE,3
+Mechatronic Engineering,DEPG2016       ,FOOTBALL,3
+Mechatronic Engineering,IDIG2016       ,FRENCH I,3
+Mechatronic Engineering,IDIG2015       ,GERMAN I,3
+Mechatronic Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Mechatronic Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Naval Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Naval Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Naval Engineering,ARTG2043       ,ART THEORY,3
+Naval Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Naval Engineering,DEPG2025       ,BASKETBALL,3
+Naval Engineering,DEPG2017       ,CHESS,3
+Naval Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Naval Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Naval Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Naval Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Naval Engineering,ARTG2044       ,DRAMA,3
+Naval Engineering,ARTG2035       ,FILM APPRECIATION,3
+Naval Engineering,ARTG2036       ,FOLK DANCE,3
+Naval Engineering,DEPG2016       ,FOOTBALL,3
+Naval Engineering,IDIG2016       ,FRENCH I,3
+Naval Engineering,IDIG2015       ,GERMAN I,3
+Naval Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Naval Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Naval Engineering,DEPG2020       ,KAYAK,3
+Naval Engineering,IDIG2014       ,KOREAN I,3
+Naval Engineering,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Naval Engineering,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Naval Engineering,IDIG2013       ,MANDARIN CHINESE I,3
+Naval Engineering,INDG1059       ,MINDFULNESS,3
+Naval Engineering,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Naval Engineering,ARTG2045       ,MUSIC APPRECIATION,3
+Naval Engineering,ARTG2042       ,PAINTING ART,3
+Naval Engineering,ARTG2039       ,PHOTOGRAPHY,3
+Naval Engineering,DEPG2022       ,PING PONG,3
+Naval Engineering,ECOG1010       ,POLITICAL ECONOMY,3
+Naval Engineering,CCAG1008       ,"SCIENCE, TECHNOLOGY AND SOCIETY IN AMERICA",3
+Naval Engineering,CCAG1005       ,SOCIAL AND EMOTIONAL LEARNING,3
+Naval Engineering,CCAG1006       ,SOCIAL DEVELOPMENT AND NEW TECHNOLOGIES,3
+Naval Engineering,CCAG1007       ,SOCIAL DEVELOPMENT AND VOLUNTEERING,3
+Naval Engineering,DEPG2019       ,STRENGHT TRAINING,3
+Naval Engineering,DEPG2021       ,SWIMMING,3
+Naval Engineering,DEPG2023       ,TENNIS,3
+Aquaculture Enginnering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Aquaculture Enginnering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Aquaculture Enginnering,ARTG2043       ,ART THEORY,3
+Aquaculture Enginnering,ARTG2037       ,ARTISTIC DRAWING,3
+Aquaculture Enginnering,DEPG2025       ,BASKETBALL,3
+Aquaculture Enginnering,DEPG2017       ,CHESS,3
+Aquaculture Enginnering,ARTG2034       ,CONTEMPORARY DANCE,3
+Aquaculture Enginnering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Aquaculture Enginnering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Aquaculture Enginnering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Aquaculture Enginnering,ARTG2044       ,DRAMA,3
+Aquaculture Enginnering,ARTG2035       ,FILM APPRECIATION,3
+Aquaculture Enginnering,ARTG2036       ,FOLK DANCE,3
+Aquaculture Enginnering,DEPG2016       ,FOOTBALL,3
+Aquaculture Enginnering,IDIG2016       ,FRENCH I,3
+Aquaculture Enginnering,IDIG2015       ,GERMAN I,3
+Aquaculture Enginnering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Aquaculture Enginnering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Aquaculture Enginnering,DEPG2020       ,KAYAK,3
+Aquaculture Enginnering,IDIG2014       ,KOREAN I,3
+Aquaculture Enginnering,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Aquaculture Enginnering,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Aquaculture Enginnering,IDIG2013       ,MANDARIN CHINESE I,3
+Aquaculture Enginnering,INDG1059       ,MINDFULNESS,3
+Aquaculture Enginnering,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Aquaculture Enginnering,ARTG2045       ,MUSIC APPRECIATION,3
+Aquaculture Enginnering,ARTG2042       ,PAINTING ART,3
+Aquaculture Enginnering,ARTG2039       ,PHOTOGRAPHY,3
+Aquaculture Enginnering,DEPG2022       ,PING PONG,3
+Aquaculture Enginnering,ECOG1010       ,POLITICAL ECONOMY,3
+Aquaculture Enginnering,CCAG1008       ,"SCIENCE, TECHNOLOGY AND SOCIETY IN AMERICA",3
+Aquaculture Enginnering,CCAG1005       ,SOCIAL AND EMOTIONAL LEARNING,3
+Aquaculture Enginnering,CCAG1006       ,SOCIAL DEVELOPMENT AND NEW TECHNOLOGIES,3
+Aquaculture Enginnering,CCAG1007       ,SOCIAL DEVELOPMENT AND VOLUNTEERING,3
+Aquaculture Enginnering,DEPG2019       ,STRENGHT TRAINING,3
+Aquaculture Enginnering,DEPG2021       ,SWIMMING,3
+Aquaculture Enginnering,DEPG2023       ,TENNIS,3
+Oceanographic Engineering,HISG2003       ,AMERICAN ANCESTRAL KNOWLEDGE,3
+Oceanographic Engineering,LITG2004       ,APPROACHES TO WORLD LITERATURE CLASSICS,3
+Oceanographic Engineering,ARTG2043       ,ART THEORY,3
+Oceanographic Engineering,ARTG2037       ,ARTISTIC DRAWING,3
+Oceanographic Engineering,DEPG2025       ,BASKETBALL,3
+Oceanographic Engineering,DEPG2017       ,CHESS,3
+Oceanographic Engineering,ARTG2034       ,CONTEMPORARY DANCE,3
+Oceanographic Engineering,HISG1002       ,CONTEMPORARY HISTORY OF LATIN AMERICA,3
+Oceanographic Engineering,ARTG2041       ,CONTEMPORARY POPULAR MUSIC,3
+Oceanographic Engineering,DEPG2018       ,DIVING AND NAUTICAL ACTIVITIES,3
+Oceanographic Engineering,ARTG2044       ,DRAMA,3
+Oceanographic Engineering,ARTG2035       ,FILM APPRECIATION,3
+Oceanographic Engineering,ARTG2036       ,FOLK DANCE,3
+Oceanographic Engineering,DEPG2016       ,FOOTBALL,3
+Oceanographic Engineering,IDIG2016       ,FRENCH I,3
+Oceanographic Engineering,IDIG2015       ,GERMAN I,3
+Oceanographic Engineering,HISG1003       ,HISTORY AND PHILOSOPHY OF SCIENCE,3
+Oceanographic Engineering,CPDG1001       ,HISTORY AND POLITICAL SCIENCE,3
+Oceanographic Engineering,DEPG2020       ,KAYAK,3
+Oceanographic Engineering,IDIG2014       ,KOREAN I,3
+Oceanographic Engineering,ARTG2040       ,LATIN AMERICAN FOLK MUSIC,3
+Oceanographic Engineering,LITG2003       ,LATIN AMERICAN LITERATURE INTRODUCTION,3
+Oceanographic Engineering,IDIG2013       ,MANDARIN CHINESE I,3
+Oceanographic Engineering,INDG1059       ,MINDFULNESS,3
+Oceanographic Engineering,ARTG2038       ,MOVEMENT AND CREATIVE EXPRESSION,3
+Oceanographic Engineering,ARTG2045       ,MUSIC APPRECIATION,3
+Oceanographic Engineering,ARTG2042       ,PAINTING ART,3
+Oceanographic Engineering,ARTG2039       ,PHOTOGRAPHY,3
+Oceanographic Engineering,DEPG2022       ,PING PONG,3
+Oceanographic Engineering,ECOG1010       ,POLITICAL ECONOMY,3
+Oceanographic Engineering,CCAG1008       ,"SCIENCE, TECHNOLOGY AND SOCIETY IN AMERICA",3
+Oceanographic Engineering,CCAG1005       ,SOCIAL AND EMOTIONAL LEARNING,3
+Oceanographic Engineering,CCAG1006       ,SOCIAL DEVELOPMENT AND NEW TECHNOLOGIES,3
+Oceanographic Engineering,CCAG1007       ,SOCIAL DEVELOPMENT AND VOLUNTEERING,3
+Oceanographic Engineering,DEPG2019       ,STRENGHT TRAINING,3
+Oceanographic Engineering,DEPG2021       ,SWIMMING,3
+Oceanographic Engineering,DEPG2023       ,TENNIS,3
