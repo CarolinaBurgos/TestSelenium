@@ -15,8 +15,8 @@ class ComplementarySubjects():
 
         with open(self.file, mode='w', encoding='utf-8', newline='') as fd:
             writer = csv.writer(fd, delimiter=',', dialect='excel', lineterminator='\n')
-            #writer.writerow(['career_name_en', 'elective_code', 'elective_name', 'weekly_hours']) #Head of the file
-            writer.writerow(['elective_code', 'elective_name', 'weekly_hours'])  # Head of the file
+            #writer.writerow(['career_name_en', 'code', 'complementary_subject_name', 'weekly_hours']) #Head of the file
+            writer.writerow(['code', 'complementary_subject_name', 'weekly_hours'])  # Head of the file
 
             for i, f in enumerate(main.faculty, start=0):
                 size = len(main.c_names[i])
