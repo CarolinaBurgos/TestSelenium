@@ -24,9 +24,8 @@ $ python bonus.py
 
 This program also uses the XPATH expressions from the *locators.py* file in the *page.py* file to save in lists the information about complementary subjects of each career.
 The *bonus.py* file, obtain the information save in the *page.py* file about de subjects, but also gets the information about the careers (similar to previous exercise) because we have to know the link of their curriculums to get and save the information of the complementary subjects in the *bonus.csv* file with the next format (separating the subjects according to each career).
-``` sh
+
 'elective_code', 'elective_name', 'weekly_hours'
-```
 
 
 
